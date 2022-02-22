@@ -1,0 +1,17 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+ /* "AllowedHosts": "*",
+ // "ConnectionStrings": {
+ //   "ConexaoBD" : "Server=PC-ESCR; Database=AngWebAPIBD; User Id=sa; Password=saescr;"
+ // }, */
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "ConexaoBD" : "Data Source=SQL5086.site4now.net;Initial Catalog=db_a7cf87_angwebapibd;User Id=db_a7cf87_angwebapibd_admin;Password=admisys1990"
+  }
+}
+
